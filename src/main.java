@@ -6,8 +6,8 @@ public class main {
         String C= "age";
         solution n=new solution();
         Solution2 s=new Solution2();
-        boolean ss=s.solution("aaa");
-        System.out.println(ss);
+        boolean b=s.solution("aaa");
+        System.out.println(b);
         int a=n.solution(t,C);
 
 //        System.out.println(a);
